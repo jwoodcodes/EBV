@@ -1,0 +1,11 @@
+body {
+  background-image: linear-gradient(
+      to right bottom,
+      $color-biege-light,
+      $color-beige-dark
+    ),
+    url();
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}

@@ -1,0 +1,12 @@
+.main-name {
+  color: #35294d;
+  font-family: "Great Vibes", cursive;
+  font-size: 3.5rem;
+  text-align: center;
+  margin-top: 3rem; }
+
+body {
+  background-image: linear-gradient(to right bottom, #c8ba97, #a28f72), url();
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh; }
